@@ -1,8 +1,3 @@
 {
-    {
-        "module":"dirlist"
-    },
-    {
-    "module":"environment"
-    }
+   "module":["dirlist","environment"]
 }
